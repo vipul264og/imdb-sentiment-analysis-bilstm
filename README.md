@@ -20,7 +20,7 @@ Reviews are truncated/padded to 200 tokens. Training uses Adam, binary cross-ent
 Fill these in after running:
 
 - Test accuracy: `84.5%`
-- Training curves: see `training_curves.png`
+- Training curves: [View training curves](training_curves.png)
 
 ## Run it
 
